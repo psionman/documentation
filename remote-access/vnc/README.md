@@ -71,7 +71,7 @@ Cloud connections are convenient and encrypted end-to-end. They are highly recom
 
 - Sign up for a RealVNC account [here](https://www.realvnc.com/raspberrypi/#sign-up): it's free and it only takes a few seconds.
 
-- On your Raspberry Pi, sign in to VNC Server using your new RealVNC account credentials:
+- On your Raspberry Pi, enter *vnclicensewiz*, sign in to VNC Server using your new RealVNC account credentials:
 
   ![VNC Server dialog showing sign in](images/vnc-server-cloud-dialog.png)
 
